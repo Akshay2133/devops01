@@ -1,4 +1,4 @@
 # devops01
 
 
-Welocme to Java SpringBoot
+Welcome to Java SpringBoot
